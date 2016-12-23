@@ -148,15 +148,18 @@ window.onload = function () {
 
 
 
-    table.onmousemove = function(e){
+    table.onmousemove =  function(e){
         if(key==1){
-            console.debug("onmousemove"+key+ "x:"+e.clientX+"y:"+ e.clientY);
+            console. debug("onmousemove"+key+ "x:"+e.clientX+"y:"+ e.clientY);
             /*移动中清除颜色*/
             var rownum = tab.length;
             var colnum =  tab[0].cells.length;
             for (var a =0;a<rownum;a++){
                 for(var b =0;b<colnum;b++){
                     table.rows[a].cells[b].style.backgroundColor = "white";
+
+
+
                 }
             }
 
