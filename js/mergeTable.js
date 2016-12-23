@@ -164,6 +164,8 @@ window.onload = function () {
             }
 
             endCell = parseInt((e.clientX-startx)/tdwidth);
+            endCell = parseInt((e.clientX-startx)/tdwidth);
+            endCell = parseInt((e.clientX-startx)/tdwidth);
             endRow = parseInt((e.clientY-starty)/tdheight);
 
 
