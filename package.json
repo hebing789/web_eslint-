@@ -1,0 +1,43 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+//  "eslintConfig": {
+//    "env": {
+//      "browser": true,
+//      "commonjs": true,
+//      "es6": true
+//    },
+//    "extends": "eslint:recommended",
+//    "parserOptions": {
+//      "ecmaFeatures": {
+//        "jsx": true
+//      },
+//      "sourceType": "module"
+//    },
+//    "rules": {
+//      "indent": [
+//        "error",
+//        "tab"
+//      ],
+//      "linebreak-style": [
+//        "error",
+//        "unix"
+//      ],
+//      "quotes": [
+//        "error",
+//        "single"
+//      ],
+//      "semi": [
+//        "error",
+//        "always"
+//      ]
+//    }
+}
+}

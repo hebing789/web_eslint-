@@ -1,0 +1,33 @@
+body{
+    padding: 0px;
+}
+
+.tb{
+    border: 1px solid #070000;
+    width: 800px;
+    height: 800px;
+
+}
+
+#menu {
+    position: fixed;
+    left:0;
+    top:0;
+    overflow: hidden;
+    background-color: #8c8c8c;
+    display: none;
+    border: 1px solid #cccccc;
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+    padding: 10px;
+    border-bottom: 1px solid #cccccc;
+}
+.un_he{
+    margin-top: 10px;
+}
