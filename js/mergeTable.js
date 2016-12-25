@@ -167,8 +167,8 @@ window.onload = function () {
             endCell = parseInt((e.clientX-startx)/tdwidth);
             endCell = parseInt((e.clientX-startx)/tdwidth);
             endRow = parseInt((e.clientY-starty)/tdheight);
-            endRow = parseInt((e.clientY-starty)/tdheight);
-            endRow = parseInt((e.clientY-starty)/tdheight);
+            endRow = parseInt((e.clientY-starty)/tdheight)
+            endRow = parseInt((e.clientY-starty)/tdheight)
             for (var ar =Math.min(startRow, endRow);ar<=Math.max(startRow, endRow);ar++){
                 for(var bc =Math.min(startCell, endCell);bc<=Math.max(startCell, endCell);bc++){
                     table.rows[ar].cells[bc].style.backgroundColor = "#00f";

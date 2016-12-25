@@ -18,11 +18,11 @@ module.exports = {
         //    "unix"
         //],
         //
-        ////缺少分号error
-        //"semi": [
-        //    "error",
-        //    "always"
-        //],
+        //缺少分号error
+        "semi": [
+            "error",
+            "always"
+        ],
         ////禁止不必要的括号
         //'no-extra-parens':'error',
         ////不要额外的分号
