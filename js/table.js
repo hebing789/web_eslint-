@@ -6,6 +6,7 @@ window.onload = function () {
     var tab = document.getElementById("table").rows;//all rows of tab;
     var cells = tab.item(0).cells;
     var i = 0;
+    var a = 0;
     var j = 0;
     var rLen = tab.length;
     var cLen = cells.length;

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00494db9-f5b2-48da-99d4-becd25f7abaf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bash" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lint-by-diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lint.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/table.js" afterPath="$PROJECT_DIR$/js/table.js" />
     </list>
@@ -57,16 +60,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reightKeyMounse.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reightKeyMounse.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="table.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/table.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,23 +72,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="table.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="table.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39580908">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            <state vertical-scroll-proportion="-8.888889">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding>
-                <marker date="1482644914000" expanded="true" signature="28:6582" placeholder="{...}" />
+                <marker date="1482645403000" expanded="true" signature="28:6359" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="canvas_object.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/canvas_object.html">
+      <file leaf-file-name="lint.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lint.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.185185">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lint-by-diff.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lint-by-diff.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#43#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bash" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bash">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33860046">
+              <caret line="15" column="80" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -131,8 +146,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -154,6 +169,9 @@
         <option value="$PROJECT_DIR$/.eslintrc.js" />
         <option value="$PROJECT_DIR$/js/canvas_object.js" />
         <option value="$PROJECT_DIR$/js/table.js" />
+        <option value="$PROJECT_DIR$/lint.sh" />
+        <option value="$PROJECT_DIR$/lint-by-diff.js" />
+        <option value="$PROJECT_DIR$/bash" />
       </list>
     </option>
   </component>
@@ -164,8 +182,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="2" />
-    <option name="y" value="367" />
+    <option name="x" value="37" />
+    <option name="y" value="45" />
     <option name="width" value="1694" />
     <option name="height" value="976" />
   </component>
@@ -246,6 +264,17 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -275,7 +304,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="367" width="1694" height="976" extended-state="0" />
+    <frame x="37" y="45" width="1694" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.078692496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -313,34 +342,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/reightKeyMounse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/table.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
-          <folding>
-            <marker date="1482644914000" expanded="true" signature="28:6582" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/canvas_object.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -384,7 +385,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1482644914000" expanded="true" signature="28:6582" placeholder="{...}" />
+            <marker date="1482645403000" expanded="true" signature="28:6359" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -437,7 +438,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1482644914000" expanded="true" signature="28:6582" placeholder="{...}" />
+            <marker date="1482645403000" expanded="true" signature="28:6359" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -497,7 +498,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
           <folding>
-            <marker date="1482644914000" expanded="true" signature="28:6582" placeholder="{...}" />
+            <marker date="1482645403000" expanded="true" signature="28:6359" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -550,7 +551,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1482644914000" expanded="true" signature="28:6582" placeholder="{...}" />
+            <marker date="1482645403000" expanded="true" signature="28:6359" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -603,7 +604,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="2" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="8" />
           <folding>
-            <marker date="1482644914000" expanded="true" signature="28:6582" placeholder="{...}" />
+            <marker date="1482645403000" expanded="true" signature="28:6359" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -749,11 +750,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39580908">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        <state vertical-scroll-proportion="-8.888889">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
-            <marker date="1482644914000" expanded="true" signature="28:6582" placeholder="{...}" />
+            <marker date="1482645403000" expanded="true" signature="28:6359" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lint.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.185185">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lint-by-diff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bash">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33860046">
+          <caret line="15" column="80" selection-start-line="15" selection-start-column="80" selection-end-line="15" selection-end-column="80" />
+          <folding />
         </state>
       </provider>
     </entry>
