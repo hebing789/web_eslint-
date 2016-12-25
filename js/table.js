@@ -159,6 +159,18 @@ window.onload = function () {
 };
 
 
+function merge() {
+      const ret = {}
+    for (const i in arguments) {
+        const m = arguments[i]
+        for (const j in m) ret[j] = m[j]
+    }
+    return ret
+}
+
+console.log(merge({ a: 123 }, { b: 456 }))
+
+
 /*var tables = document.getElementsByTagName('table');
  var table = tables[0];
  table.onmousedown = function(){
