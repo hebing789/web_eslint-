@@ -71,6 +71,8 @@ function Star(x, y, w, h, b) {
         ctx.fill();
     };
 }
+
+
 function Pannel(canvasId) {
     var canvasEle = document.getElementById("canvas");
     this.ctx = canvasEle.getContext("2d");

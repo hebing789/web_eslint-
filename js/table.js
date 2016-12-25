@@ -11,7 +11,6 @@ window.onload = function () {
     var cLen = cells.length;
     var key = 0;
     var startRow = 0, startCell = 0, endRow = 0, endCell = 0;
-
     for (; i < rLen; i++) {
         for (j = 0; j < cLen; j++) {
             a = (function (i, j) {
@@ -167,6 +166,9 @@ function merge() {
     }
     return ret
 }
+
+
+
 
 console.log(merge({ a: 123 }, { b: 456 }))
 
