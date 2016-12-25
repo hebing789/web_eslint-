@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00494db9-f5b2-48da-99d4-becd25f7abaf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/canvas_object.js" afterPath="$PROJECT_DIR$/js/canvas_object.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/table.js" afterPath="$PROJECT_DIR$/js/table.js" />
-    </list>
+    <list default="true" id="00494db9-f5b2-48da-99d4-becd25f7abaf" name="Default" comment="" />
     <ignored path="JavaScriptTask.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -83,8 +79,8 @@
       <file leaf-file-name="table.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/table.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30267754">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.39580908">
+              <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
               <folding>
                 <marker date="1482644731000" expanded="true" signature="28:6344" placeholder="{...}" />
               </folding>
@@ -165,8 +161,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="104" />
-    <option name="y" value="104" />
+    <option name="x" value="69" />
+    <option name="y" value="670" />
     <option name="width" value="1694" />
     <option name="height" value="976" />
   </component>
@@ -276,7 +272,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="104" width="1694" height="976" extended-state="0" />
+    <frame x="69" y="670" width="1694" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.078692496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -750,8 +746,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/table.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30267754">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.39580908">
+          <caret line="17" column="80" selection-start-line="17" selection-start-column="80" selection-end-line="17" selection-end-column="80" />
           <folding>
             <marker date="1482644731000" expanded="true" signature="28:6344" placeholder="{...}" />
           </folding>
