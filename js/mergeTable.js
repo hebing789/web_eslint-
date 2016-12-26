@@ -169,6 +169,9 @@ window.onload = function () {
             endRow = parseInt((e.clientY-starty)/tdheight);
             endRow = parseInt((e.clientY-starty)/tdheight)
             endRow = parseInt((e.clientY-starty)/tdheight)
+            endRow = parseInt((e.clientY-starty)/tdheight);
+            endRow = parseInt((e.clientY-starty)/tdheight)
+            endRow = parseInt((e.clientY-starty)/tdheight)
 
 
             for (var ar =Math.min(startRow, endRow);ar<=Math.max(startRow, endRow);ar++){

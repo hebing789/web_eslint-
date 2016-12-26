@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00494db9-f5b2-48da-99d4-becd25f7abaf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bash" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lint-by-diff.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lint.sh" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mergeTable.js" afterPath="$PROJECT_DIR$/js/mergeTable.js" />
     </list>
     <ignored path="JavaScriptTask.iws" />
@@ -50,8 +47,8 @@
       <file leaf-file-name="mergeTable.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/mergeTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26890758">
-              <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3697479">
+              <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -710,8 +707,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/mergeTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26890758">
-          <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3697479">
+          <caret line="174" column="0" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
           <folding />
         </state>
       </provider>
