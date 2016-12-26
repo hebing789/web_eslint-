@@ -8,6 +8,12 @@ window.onload = function () {
     var i = 0
     var a = 0
     var j = 0
+    var i = 0
+    var a = 0
+    var j = 0
+    var i = 0
+    var a = 0
+    var j = 0
 
     var rLen = tab.length;
     var cLen = cells.length;
