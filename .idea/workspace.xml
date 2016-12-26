@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00494db9-f5b2-48da-99d4-becd25f7abaf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mergeTable.js" afterPath="$PROJECT_DIR$/js/mergeTable.js" />
-    </list>
+    <list default="true" id="00494db9-f5b2-48da-99d4-becd25f7abaf" name="Default" comment="" />
     <ignored path="JavaScriptTask.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -147,8 +145,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="478" />
-    <option name="y" value="692" />
+    <option name="x" value="526" />
+    <option name="y" value="384" />
     <option name="width" value="1694" />
     <option name="height" value="976" />
   </component>
@@ -269,7 +267,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="478" y="692" width="1694" height="976" extended-state="0" />
+    <frame x="526" y="384" width="1694" height="976" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14104116" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
