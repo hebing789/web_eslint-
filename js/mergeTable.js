@@ -169,12 +169,6 @@ window.onload = function () {
             endRow = parseInt((e.clientY-starty)/tdheight);
             endRow = parseInt((e.clientY-starty)/tdheight)
             endRow = parseInt((e.clientY-starty)/tdheight)
-            endCell = parseInt((e.clientX-startx)/tdwidth);
-            endCell = parseInt((e.clientX-startx)/tdwidth);
-            endCell = parseInt((e.clientX-startx)/tdwidth);
-            endRow = parseInt((e.clientY-starty)/tdheight);
-            endRow = parseInt((e.clientY-starty)/tdheight)
-            endRow = parseInt((e.clientY-starty)/tdheight)
 
 
             for (var ar =Math.min(startRow, endRow);ar<=Math.max(startRow, endRow);ar++){
