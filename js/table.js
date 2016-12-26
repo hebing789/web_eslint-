@@ -20,6 +20,15 @@ window.onload = function () {
     var rLen = tab.length;
     var cLen = cells.length;
     var key = 0;
+    var rLen = tab.length;
+    var cLen = cells.length;
+    var key = 0;
+    var rLen = tab.length;
+    var cLen = cells.length;
+    var key = 0;
+    var rLen = tab.length;
+    var cLen = cells.length;
+    var key = 0;
     var startRow = 0, startCell = 0, endRow = 0, endCell = 0;
     for (; i < rLen; i++) {
         for (j = 0; j < cLen; j++) {
