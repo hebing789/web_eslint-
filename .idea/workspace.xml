@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00494db9-f5b2-48da-99d4-becd25f7abaf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/mergeTable.js" afterPath="$PROJECT_DIR$/js/mergeTable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/table.js" afterPath="$PROJECT_DIR$/js/table.js" />
-    </list>
+    <list default="true" id="00494db9-f5b2-48da-99d4-becd25f7abaf" name="Default" comment="" />
     <ignored path="JavaScriptTask.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
